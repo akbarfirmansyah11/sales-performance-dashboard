@@ -1,4 +1,5 @@
 # Sales Performance Analysis for Monitoring and Decision Support
+> This project showcases a sales performance dashboard built using Power BI to support monitoring and data-driven decision-making.
 
 ## Overview
 This project focuses on analyzing sales performance data to support monitoring and business decision-making. The dashboard provides an overview of revenue trends, customer segmentation, product performance, and category contribution.
